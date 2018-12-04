@@ -1,6 +1,6 @@
 # eslint-config
 
-[![npm version](https://badge.fury.io/js/eslint-config.svg)](http://badge.fury.io/js/eslint-config)
+[![npm version](https://badge.fury.io/js/%40ethikz%2Feslint-config.svg)](https://badge.fury.io/js/%40ethikz%2Feslint-config)
 
 This package provides bbt's base JS .eslintrc as an extensible shared config.
 
