@@ -1,7 +1,7 @@
 {
   "name": "@ethikz/eslint-config",
   "description": "Base JS ESLint config, following styleguide.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Josh Christensen <josh.christensen2@gmail.com>",
   "bugs": {
     "url": "https://github.com/ethikz/eslint-config/issues"
